@@ -12,3 +12,4 @@ tmp_file_*
 .coverage
 .idea
 coverage.xml
+normalPR.js
